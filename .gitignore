@@ -1,0 +1,41 @@
+# Xcode
+#
+# gitignore contributors: paste build/ into search to search for other projects
+#
+build/
+DerivedData/
+*.moved-aside
+*.xcuserstate
+*.xcbkptlist
+
+# User settings (personal window layouts, break points, scheme state)
+xcuserdata/
+*.xcuserdata/
+
+# Swift Package Manager
+.build/
+.swiftpm/
+*.swiftpm/
+Packages/
+Package.pins
+Package.resolved
+*.xcodeproj/*_Package.resolved
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# Objective-C/Swift specific
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
