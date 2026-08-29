@@ -8,6 +8,11 @@
 
 An interactive, pure **SwiftUI 3D Globe component** built with `TimelineView` and vector projection math. Provides smooth 2-axis drag gestures, geodesic shortest-path centering animations, depth scaling, and dynamic unselected-node background blur effects.
 
+> 🤖 **Android Version:** Looking for Jetpack Compose? Check out [**JetpackGlobe**](https://github.com/wailbabou/JetpackGlobe) for the native Android library.  
+> 🚀 **In Production:** Originally crafted and used in the [**Twiny**](https://apps.apple.com/us/app/twiny-find-your-twins/id6449654342) mobile app ([App Store](https://apps.apple.com/us/app/twiny-find-your-twins/id6449654342) | [Google Play](https://play.google.com/store/apps/details?id=com.twiny.app)).
+
+https://github.com/user-attachments/assets/a7f1478e-67a4-49d3-884d-0cef5036ad42
+
 ---
 
 ## ✨ Features
@@ -195,9 +200,10 @@ SwiftUIGlobe/
 
 ---
 
-## 🙏 Credits
+## 🙏 Credits & Origin
 
-This library was inspired by the globe visualization concept from [**compose_concepts**](https://github.com/pedromassango/compose_concepts) by [@pedromassango](https://github.com/pedromassango). Big thanks for the creative foundation!
+- **Inspiration:** Inspired by the globe visualization concept from [**compose_concepts**](https://github.com/pedromassango/compose_concepts) by [@pedromassango](https://github.com/pedromassango). Big thanks for the creative foundation!
+- **Original App:** First implemented and battle-tested in the [**Twiny**](https://apps.apple.com/us/app/twiny-find-your-twins/id6449654342) mobile app ([App Store](https://apps.apple.com/us/app/twiny-find-your-twins/id6449654342) / [Google Play](https://play.google.com/store/apps/details?id=com.twiny.app)).
 
 ---
 
